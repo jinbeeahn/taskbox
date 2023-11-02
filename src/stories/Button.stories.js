@@ -37,3 +37,17 @@ export const Small = {
     label: 'Button',
   },
 };
+
+export const Red = {
+  args: {
+backgroundColor: 'red',
+    label: 'Button',
+  },
+};
+
+export const Purple = {
+  args: {
+    backgroundColor: 'purple',
+    label: 'Button',
+  },
+};
