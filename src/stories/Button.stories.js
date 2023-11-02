@@ -51,3 +51,10 @@ export const Purple = {
     label: 'Button',
   },
 };
+
+export const Green = {
+  args: {
+    backgroundColor: 'green',
+    label: 'Button',
+  },
+};
